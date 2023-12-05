@@ -1,2 +1,2 @@
-const AutoUploadFilePlugin = require('./lib/index.js')
-module.exports = AutoUploadFilePlugin
+const AutoUploadFileWebpackPlugin = require('./lib/index.js')
+module.exports = AutoUploadFileWebpackPlugin

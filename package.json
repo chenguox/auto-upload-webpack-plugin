@@ -1,6 +1,6 @@
 {
-  "name": "auto-upload-webpack-plugin",
-  "version": "1.0.0",
+  "name": "auto-upload-file-webpack-plugin",
+  "version": "1.0.1",
   "description": "将静态文件自动上传服务器中",
   "main": "index.js",
   "directories": {
@@ -13,9 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/chenguox/auto-upload-webpack-plugin.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["upload", "plugin", "webpack"],
+  "author": "codercgx",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chenguox/auto-upload-webpack-plugin/issues"
   },
