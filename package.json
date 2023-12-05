@@ -1,0 +1,28 @@
+{
+  "name": "auto-upload-webpack-plugin",
+  "version": "1.0.0",
+  "description": "将静态文件自动上传服务器中",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenguox/auto-upload-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenguox/auto-upload-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/chenguox/auto-upload-webpack-plugin#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "node-ssh": "^13.1.0",
+    "schema-utils": "^4.2.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "host": {
+      "type": "string",
+      "description": "请确定你的服务器"
+    },
+    "username": {
+      "type": "string",
+      "description": "请确定你的远程用户名"
+    },
+    "password": {
+      "type": "string",
+      "description": "请确定你的远程密码"
+    },
+    "remoteDirectory": {
+      "type": "string",
+      "description": "请确定你的远程目录"
+    }
+  }
+}
